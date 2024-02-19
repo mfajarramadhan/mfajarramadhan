@@ -3,19 +3,19 @@
 <h3 align="center">A Junior Web Developer from Indonesia</h3>
 <br>
 
-- 🔭 I’m currently working at [PT. DIC GRAPHICS Karawang](https://maps.app.goo.gl/SRECkCnc1jgz8sLE6)
+- 🔭 I’m currently studying at [Universitas Horizon Indonesia]([https://maps.app.goo.gl/SRECkCnc1jgz8sLE6](https://en.wikipedia.org/wiki/Horizon_University_Indonesia))
 
-- 🌱 I’m currently learning **laravel, node.js, react**
+- 🌱 I’m currently learning **Laravel, node.js, React**
 
-- 👨‍💻 All of my projects are available at [mfajarramadhan.github.io](mfajarramadhan.github.io)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mfajarramadhan)
 
-- 💬 Ask me about **PHP native, figma**
+- 💬 Ask me about **PHP native, Figma**
 
 - 📫 Reach me at **mfajarramadhan@gmail.com**
 
-- 📄 Know about my experiences [mfajarramadhan.netlify.app](mfajarramadhan.netlify.app)
+- 📄 Know about my experiences on [mfajarramadhan](https://mfajarramadhan.netlify.app)
 
-- ⚡ Fun fact **Don't touches code if it's running**
+- ⚡ Fun fact **More you learn, more you earn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
