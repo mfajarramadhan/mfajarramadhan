@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Laravel, node.js, React**
 
-- 👨‍💻 All of my projects are available on [Github](https://github.com/mfajarramadhan)
-
 - 💬 Ask me about **PHP native, Figma**
 
 - 📫 Reach me at **mfajarramadhan@gmail.com**
