@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋</h1>
+<h2 align="center">Hi There👋</h2>
 <h3 align="center">I'm Muhammad Fajar Ramadhan</h1>
 <h3 align="center">A Junior Web Developer from Indonesia</h3>
 <br>
