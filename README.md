@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, node.js, React**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mfajarramadhan)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/mfajarramadhan)
 
 - 💬 Ask me about **PHP native, Figma**
 
@@ -15,14 +15,14 @@
 
 - 📄 Know about my experiences on [MyPortfolio](https://mfajarramadhan.netlify.app)
 
-- ⚡ Fun fact **More you learn, more you earn**
+- ⚡ Fun fact :  **More you learn, more you earn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="[https://linkedin.com/in/muhammad fajar ramadhan](https://www.linkedin.com/in/muhammad-fajar-ramadhan-908aa2278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center"
+    <a href="www.linkedin.com/in/muhammad-fajar-ramadhan-908aa2278" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="muhammad fajar ramadhan" height="30" width="40" /></a>
-    <a href="[https://fb.com/m fajar r](https://www.facebook.com/kim.ara.moon.75248?mibextid=ZbWKwL)" target="blank"><img align="center"
+    <a href="https://web.facebook.com/kim.ara.moon.75248" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="m fajar r" height="30" width="40" /></a>
     <a href="https://instagram.com/mfajarr25" target="blank"><img align="center"
