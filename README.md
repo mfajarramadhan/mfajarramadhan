@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP native, Figma**
 
-- 📫 Reach me at **mfajarramadhan@gmail.com**
+- 📫 Reach me at **Connect with my Social Media**
 
 - 📄 Know about my experiences on [MyPortfolio](https://mfajarramadhan.netlify.app)
 
