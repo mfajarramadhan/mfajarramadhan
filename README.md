@@ -3,7 +3,7 @@
 <h3 align="center">A Junior Web Developer from Indonesia</h3>
 <br>
 
-- 🔭 I’m currently studying at [Universitas Horizon Indonesia]([https://horizon.ac.id/id/])
+- 🔭 I’m currently studying at [Universitas Horizon Indonesia](https://horizon.ac.id/id/)
 
 - 🌱 I’m currently learning **Laravel, node.js, Tailwind**
 
