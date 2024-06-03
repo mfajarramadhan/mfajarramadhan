@@ -3,17 +3,17 @@
 <h3 align="center">A Junior Web Developer from Indonesia</h3>
 <br>
 
-- 🔭 I’m currently studying at [Universitas Horizon Indonesia]([https://en.wikipedia.org/wiki/Horizon_University_Indonesia](https://horizon.ac.id/))
+- 🔭 I’m currently studying at [Universitas Horizon Indonesia]([https://horizon.ac.id/id/])
 
-- 🌱 I’m currently learning **Laravel, node.js, React**
+- 🌱 I’m currently learning **Laravel, node.js, Tailwind**
 
-- 💬 Ask me about **PHP native, Figma**
+- 💬 Ask me about **PHP, JavaScript, Figma**
 
 - 📫 How to reach me : **Connect with my Social Media**
 
 - 📄 Know about my experiences on [MyPortfolio](https://mfajarramadhan.netlify.app)
 
-- ⚡ Fun fact :  **More you learn, more you earn**
+- ⚡ Quote of the day :  **More you learn, more you earn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
